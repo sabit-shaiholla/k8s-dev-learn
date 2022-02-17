@@ -1,0 +1,9 @@
+description: XPaste Helm chart for Kubernetes.
+home: https://xpaste.pro/
+maintainers:
+- email: p.selivanov@southbridge.ru
+  name: Pavel Selivanov
+name: xpaste
+sources:
+- https://gitlab.slurm.io/slurm/xpaste
+version: 1.0.0
